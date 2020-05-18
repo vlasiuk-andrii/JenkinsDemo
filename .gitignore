@@ -1,0 +1,14 @@
+.allure
+
+#IDEA Files
+.idea
+target
+*.iml
+
+.mvn/
+Jenkinsfile
+LICENSE
+README.md
+allure-results/
+mvnw
+mvnw.cmd
